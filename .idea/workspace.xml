@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec463e17-45fe-4de4-ac86-7190d320a797" name="Changes" comment="train model">
-      <change afterPath="$PROJECT_DIR$/03train_classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.p" afterDir="false" />
+    <list default="true" id="ec463e17-45fe-4de4-ac86-7190d320a797" name="Changes" comment="test model">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Python.01collect_image.executor": "Run",
     "Python.02create_dataset.executor": "Run",
     "Python.03train_classifier.executor": "Run",
+    "Python.04inference_classifier.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -105,7 +106,31 @@
       <option name="project" value="LOCAL" />
       <updated>1734869060065</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test model">
+      <option name="closed" value="true" />
+      <created>1734869232318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734869232318</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test model">
+      <option name="closed" value="true" />
+      <created>1734869258975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734869258975</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test model">
+      <option name="closed" value="true" />
+      <created>1734869365826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734869365826</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +149,7 @@
     <MESSAGE value=" collect data" />
     <MESSAGE value="create dataset" />
     <MESSAGE value="train model" />
-    <option name="LAST_COMMIT_MESSAGE" value="train model" />
+    <MESSAGE value="test model" />
+    <option name="LAST_COMMIT_MESSAGE" value="test model" />
   </component>
 </project>
